@@ -1,4 +1,4 @@
-﻿using Asgard_Shift_Orgenizer.Classes;
+﻿using Shift_Orgenizer.Classes;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 //presenter:Shoval Shabi
 
-namespace Asgard_Shift_Orgenizer.Interfaces
+namespace Shift_Orgenizer.Interfaces
 {
     /// <summary>
     /// Model interface
