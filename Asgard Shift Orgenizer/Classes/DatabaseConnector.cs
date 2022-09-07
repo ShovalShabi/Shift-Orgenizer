@@ -39,10 +39,10 @@ namespace Asgard_Shift_Orgenizer.Classes
 
         private DatabaseConnector()
         {
-            this.serverName = "localhost";
+            this.serverName = "your_server_name";
             this.databaseName = "swimmingclub";
-            this.userName = "root";
-            this.password = "7PPwwsy4x!";
+            this.userName = "your_username";
+            this.password = "your_password";
             this.timeIds = new Dictionary<int, Time>();
             this.availabiltyIds = new Dictionary<int, Availability>();
             this.speciltiesIds = new Dictionary<int, Specialties>();
