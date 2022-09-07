@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 //presenter:Shoval Shabi
 
-namespace Asgard_Shift_Orgenizer.UI
+namespace Shift_Orgenizer.UI
 {
     /// <summary>
     /// A Contrellor object part of MVC design pattern.
