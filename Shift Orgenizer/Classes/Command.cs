@@ -1,4 +1,4 @@
-﻿using Asgard_Shift_Orgenizer.Interfaces;
+﻿using Shift_Orgenizer.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
