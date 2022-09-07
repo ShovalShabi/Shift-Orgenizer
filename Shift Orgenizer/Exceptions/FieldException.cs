@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Asgard_Shift_Orgenizer.Exceptions
+namespace Shift_Orgenizer.Exceptions
 {
     class FieldException : Exception
     {
