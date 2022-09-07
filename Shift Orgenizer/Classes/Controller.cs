@@ -1,5 +1,5 @@
-﻿using Asgard_Shift_Orgenizer.Classes;
-using Asgard_Shift_Orgenizer.Interfaces;
+﻿using Shift_Orgenizer.Classes;
+using Shift_Orgenizer.Interfaces;
 using System;
 using System.Collections;
 using System.Collections.Generic;
