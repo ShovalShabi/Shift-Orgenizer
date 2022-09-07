@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 //presenter:Shoval Shabi
 
-namespace Asgard_Shift_Orgenizer.Classes
+namespace Shift_Orgenizer.Classes
 {
     /// <summary>
     /// A part of Command Design pattern.
