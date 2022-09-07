@@ -1,5 +1,5 @@
-﻿using Asgard_Shift_Orgenizer.Exceptions;
-using Asgard_Shift_Orgenizer.Interfaces;
+﻿using Shift_Orgenizer.Exceptions;
+using Shift_Orgenizer.Interfaces;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 //presenter:Shoval Shabi
 
-namespace Asgard_Shift_Orgenizer.Classes
+namespace Shift_Orgenizer.Classes
 {
     /// <summary>
     /// A SwiimmingClub objects.
