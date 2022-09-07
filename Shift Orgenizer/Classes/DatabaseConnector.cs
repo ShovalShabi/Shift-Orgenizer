@@ -10,7 +10,7 @@ using MySql.Data.MySqlClient;
 
 //presenter:Shoval Shabi
 
-namespace Asgard_Shift_Orgenizer.Classes
+namespace Shift_Orgenizer.Classes
 {
     /// <summary>
     /// A MySQL Connetcor designed in Singleton design pattern.
