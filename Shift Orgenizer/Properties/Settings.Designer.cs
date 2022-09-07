@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Asgard_Shift_Orgenizer.Properties
+namespace Shift_Orgenizer.Properties
 {
 
 
