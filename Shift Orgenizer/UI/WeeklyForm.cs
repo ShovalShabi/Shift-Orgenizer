@@ -1,6 +1,6 @@
-﻿using Asgard_Shift_Orgenizer.Classes;
-using Asgard_Shift_Orgenizer.Exceptions;
-using Asgard_Shift_Orgenizer.UI;
+﻿using Shift_Orgenizer.Classes;
+using Shift_Orgenizer.Exceptions;
+using Shift_Orgenizer.UI;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -11,11 +11,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Day = Asgard_Shift_Orgenizer.Classes.Day;
+using Day = Shift_Orgenizer.Classes.Day;
 
 //presenter:Shoval Shabi
 
-namespace Asgard_Shift_Orgenizer
+namespace Shift_Orgenizer
 {
 
     /// <summary>
