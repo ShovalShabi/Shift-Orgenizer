@@ -8,16 +8,16 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
-using Asgard_Shift_Orgenizer.Interfaces;
-using Asgard_Shift_Orgenizer.Classes;
+using Shift_Orgenizer.Interfaces;
+using Shift_Orgenizer.Classes;
 using System.Collections;
-using Asgard_Shift_Orgenizer.UI;
+using Shift_Orgenizer.UI;
 using System.Resources;
-using Asgard_Shift_Orgenizer.Properties;
+using Shift_Orgenizer.Properties;
 
 //presenter:Shoval Shabi
 
-namespace Asgard_Shift_Orgenizer
+namespace Shift_Orgenizer
 {
     /// <summary>
     /// A Form Object that hold the etire functionality of the view
