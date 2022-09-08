@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{992F871D-23F4-432B-A23D-8F4746969295}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Asgard_Shift_Orgenizer</RootNamespace>
-    <AssemblyName>Asgard Shift Orgenizer</AssemblyName>
+    <RootNamespace>Shift_Orgenizer</RootNamespace>
+    <AssemblyName>Shift Orgenizer</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
