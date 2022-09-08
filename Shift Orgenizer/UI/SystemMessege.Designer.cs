@@ -1,4 +1,4 @@
-﻿namespace Asgard_Shift_Orgenizer.UI
+﻿namespace Shift_Orgenizer.UI
 {
     partial class SystemMessege
     {
