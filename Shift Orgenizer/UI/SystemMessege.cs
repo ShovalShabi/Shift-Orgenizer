@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 //presenter:Shoval Shabi
 
-namespace Asgard_Shift_Orgenizer.UI
+namespace Shift_Orgenizer.UI
 {
     /// <summary>
     /// System messege window
