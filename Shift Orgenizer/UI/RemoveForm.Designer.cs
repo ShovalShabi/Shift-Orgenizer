@@ -1,4 +1,4 @@
-﻿namespace Asgard_Shift_Orgenizer
+﻿namespace Shift_Orgenizer
 {
     partial class RemoveForm
     {
