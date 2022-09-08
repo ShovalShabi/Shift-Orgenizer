@@ -8,13 +8,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Asgard_Shift_Orgenizer.Classes;
-using Asgard_Shift_Orgenizer.Exceptions;
-using Asgard_Shift_Orgenizer.UI;
+using Shift_Orgenizer.Classes;
+using Shift_Orgenizer.Exceptions;
+using Shift_Orgenizer.UI;
 
 //presenter:Shoval Shabi
 
-namespace Asgard_Shift_Orgenizer
+namespace Shift_Orgenizer
 {
     /// <summary>
     /// A Form Object
