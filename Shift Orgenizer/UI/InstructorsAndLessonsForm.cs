@@ -1,4 +1,4 @@
-﻿using Asgard_Shift_Orgenizer.Classes;
+﻿using Shift_Orgenizer.Classes;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -12,7 +12,7 @@ using System.Windows.Forms;
 
 //presenter:Shoval Shabi
 
-namespace Asgard_Shift_Orgenizer.UI
+namespace Shift_Orgenizer.UI
 {
     public partial class InstructorsAndLessonsForm : Form
     {
