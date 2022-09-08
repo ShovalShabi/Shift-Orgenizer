@@ -1,5 +1,5 @@
-﻿using Asgard_Shift_Orgenizer.Classes;
-using Asgard_Shift_Orgenizer.UI;
+﻿using Shift_Orgenizer.Classes;
+using Shift_Orgenizer.UI;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 //presenter:Shoval Shabi
 
-namespace Asgard_Shift_Orgenizer
+namespace Shift_Orgenizer
 {
     static class Program
     {
