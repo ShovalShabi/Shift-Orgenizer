@@ -1,6 +1,7 @@
 # Shift-Organizer
 Hello and welcome to the Shift Organizer SwimmingClub Application!
 This application is a .NET Core UI desktop application for shift scheduling of a country club.
+The system schedules lessons by the availabilities of each instructor and its abilities for a perfect match to a student who wants to take swimming lessons, the management can assign students to lessons and instructors as well.
 
 Before use it's very important to have several things:
 1."Universal Windows Platform development" tool installed on your Visual Studio Code.
